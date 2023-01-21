@@ -1,0 +1,6 @@
+System.Console.WriteLine("Введите числа");
+
+srtring Numbers = int.Parse(Numbers);
+int[] array = {Numbers};
+
+System.Console.WriteLine("Это массив:" + array);
